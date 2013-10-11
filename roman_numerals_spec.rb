@@ -1,4 +1,4 @@
-
+require_relative 'roman_numerals.rb'
 RSpec.configure do |config|
   # Use color in STDOUT
   config.color_enabled = true
